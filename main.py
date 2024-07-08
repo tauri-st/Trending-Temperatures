@@ -9,3 +9,5 @@ plt.xlabel("Month", fontsize=16)
 plt.ylabel("Temperature", fontsize=16)
 
 plt.title("Average Temperature in July, 2018", fontsize=20)
+
+plt.savefig("North_Poles_Temps.png")
